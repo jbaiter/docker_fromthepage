@@ -17,7 +17,7 @@ ENV LC_ALL en_US.UTF-8
 WORKDIR /home
 
 # Clone the repository
-RUN git clone https://github.com/benwbrum/fromthepage.git
+RUN git clone https://github.com/jbaiter/fromthepage.git
 
 # Install required gems
 #    bundle install
